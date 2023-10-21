@@ -1,5 +1,22 @@
 # myst-cli
 
+## 1.1.23
+
+### Patch Changes
+
+- 5ede9051: Trim PDFs when converting to PNG, ensure WEBP conversion does not overwrite
+- 3c5c5a6d: Improve plural function to add `y|ies` endings for words.
+- 2c934d0: Specify port numbers for app and server ports
+- Updated dependencies [a8121e53]
+- Updated dependencies [3c5c5a6d]
+- Updated dependencies [b211cc59]
+- Updated dependencies [52da08ee]
+- Updated dependencies [207b2f0f]
+  - myst-to-tex@1.0.10
+  - myst-cli-utils@2.0.6
+  - myst-ext-proof@1.0.6
+  - tex-to-myst@1.0.10
+
 ## 1.1.22
 
 ### Patch Changes

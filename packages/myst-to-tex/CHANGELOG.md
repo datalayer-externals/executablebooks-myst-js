@@ -1,5 +1,15 @@
 # myst-to-tex
 
+## 1.0.10
+
+### Patch Changes
+
+- a8121e53: Exclude blocks with the "no-tex" tag
+- b211cc59: Add spaces around tables without captions
+- 52da08ee: Do not write implicit headings to tex
+- Updated dependencies [207b2f0f]
+  - myst-ext-proof@1.0.6
+
 ## 1.0.9
 
 ### Patch Changes
