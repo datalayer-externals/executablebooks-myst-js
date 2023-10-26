@@ -1,5 +1,13 @@
 # myst-ext-proof
 
+## 1.0.6
+
+### Patch Changes
+
+- 207b2f0f: Add label alias as name
+- Updated dependencies [a7f830af]
+  - myst-common@1.1.11
+
 ## 1.0.5
 
 ### Patch Changes

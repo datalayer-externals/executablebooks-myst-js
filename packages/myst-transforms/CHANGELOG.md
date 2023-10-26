@@ -1,5 +1,15 @@
 # myst-transforms
 
+## 1.1.6
+
+### Patch Changes
+
+- a7f830af: Support for sub-equations, including adding the MathGroup node.
+- Updated dependencies [417efdc9]
+- Updated dependencies [a7f830af]
+  - myst-spec-ext@1.1.11
+  - myst-common@1.1.11
+
 ## 1.1.5
 
 ### Patch Changes
